@@ -30,7 +30,7 @@ scikit-learn>=1.4.0
 openai==2.43.0
 packaging==26.2
 pandas==3.0.3
-pillow==12.2.0
+pillow==12.3.0
 protobuf==7.35.1
 pyarrow==24.0.0
 pydantic==2.13.4
